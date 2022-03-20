@@ -1,14 +1,15 @@
 ---
 date: '2022-03-16'
 title: '66DaysOfData'
-github: 'https://github.com/chandrikadeb7/100DaysOfCode'
+github: 'https://github.com/Suraj11nag/66DaysOfData'
 external: ''
 tech:
-  - Kotlin/Java
-  - Spring Microservices
-  - Javascript
-  - CSS
   - Python
+  - Numpy
+  - Pandas
+  - Statistics
+  - Probability
+  - Machine Learning
 company: ''
 showInProjects: true
 ---

@@ -1,15 +1,15 @@
 ---
-date: '2019-12-12'
-title: 'Face Recognition in Python'
-github: 'https://github.com/chandrikadeb7/Face-Recognition-in-Python'
+date: '2020-08-12'
+title: 'Data Analysis with Python'
+github: 'https://github.com/Suraj11nag/data-analysis-with-python'
 external: ''
 tech:
   - Python
-  - OpenCV
-  - Pillow
-  - NumPy
+  - Numpy
+  - Pandas
+  - Jupyter Notebook
 company: ''
 showInProjects: true
 ---
 
-A real time face recognition system developed in Python using Pillow, OpenCV and NumPy libraries
+Setting up analysis environment on the basis of working with data structures in Python and NumPy libraries.

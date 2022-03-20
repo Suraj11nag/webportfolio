@@ -1,16 +1,15 @@
 ---
 date: '2020-04-13'
-title: 'Covid-19 Helpdesk'
-github: 'https://github.com/chandrikadeb7/Covid-19-HelpDesk'
-external: 'https://www.youtube.com/watch?v=s9ivtzkpK6w&feature=youtu.be'
+title: 'Machine Learning'
+github: 'https://github.com/Suraj11nag/Machine-Learning-Project'
+external: ''
 tech:
-  - PHP
-  - Javascript
-  - TSQL
-  - HTML
-  - CSS
+  - Python
+  - Pandas
+  - Numpy
+  - Jupyter Notebook
 company: ''
-showInProjects: false
+showInProjects: true
 ---
 
-Covid-19 helpdesk for tracking moderate and high risk patients around us along with online doctor portal.
+A machine learning model developed in Python using Pandas, NumPy and machine learning algorithm libraries.

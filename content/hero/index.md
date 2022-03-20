@@ -9,4 +9,4 @@ I'm an India based data scientist/analyst with a goal-driven creative mindset an
 
 Currently working as a Data Analyst at [Mojocare](https://www.mojocare.com/).
 
-Outside work, I occasionally tweet on [Medium](https://medium.com/@suraj11nag/). Off-screen, I tweet my funny thoughts on [Twitter](https://twitter.com/Suraj11nag)!
+Outside work, I occasionally blog on [Medium](https://medium.com/@suraj11nag/). Off-screen, I tweet my funny thoughts on [Twitter](https://twitter.com/Suraj11nag)!
