@@ -10,7 +10,7 @@ url: 'https://mojocare.com/'
 
 - Working extensively on automating tasks such as daily reports, extracting data and API integration to third party service providers to extract necessary data.
 
-- Composed advanced queries to fetch data and dashboard preliminary analysis..
+- Composed advanced queries to fetch data and dashboard preliminary analysis.
 
 - Designed the entire event architecture for analytical platform - Amplitude & Clevertap, for both Website and Android App Application.
 
