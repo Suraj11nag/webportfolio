@@ -4,9 +4,9 @@ module.exports = {
     'Suraj Nag is a Data Scientist/Analyst at Mojocare, who loves learning new things and helping tech beginners.',
   siteKeywords:
     'Suraj Nag, Suraj, Nag, Suraj11nag, data scientist, data analyst, data, mojocare, eloelo, bosch, RRCE, Bengaluru',
-  siteUrl: 'https://github.com/Suraj11nag/chandrikadeb7.github.io',
+  siteUrl: 'https://surajnag.netlify.app',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
+  googleAnalyticsID: 'G-XQQ0G0SX87',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
   name: 'Suraj Nag',
   location: 'Bengaluru, India',
