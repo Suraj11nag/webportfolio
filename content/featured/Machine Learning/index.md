@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '1'
 title: 'Heart Disease Prediction'
 cover: 'demo1.png'
 github: 'https://github.com/Suraj11nag/Machine-Learning-Project/tree/main/Heart%20Disease%20Prediction'

@@ -1,5 +1,5 @@
 ---
-date: '3'
+date: '2'
 title: 'SQL Data Exploration'
 cover: 'demo1.png'
 github: 'https://github.com/Suraj11nag/Covid-Death-SQL-DataExploration'

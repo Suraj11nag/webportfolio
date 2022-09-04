@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '5'
 title: 'Data Visualization In Tableau'
 cover: 'demo.png'
 github: 'https://github.com/Suraj11nag/Covid-Death-SQL-DataExploration'

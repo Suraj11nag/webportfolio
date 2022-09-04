@@ -7,11 +7,11 @@ tech:
   - Python
   - Pandas
   - Numpy
+  - TensorFlow
+  - PyTorch
   - Jupyter Notebook
   - Machine Learning
   - Deep Learning
-  - TensorFlow
-  - PyTorch
 company: ''
 showInProjects: true
 ---
