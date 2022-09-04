@@ -8,6 +8,10 @@ tech:
   - Pandas
   - Numpy
   - Jupyter Notebook
+  - Machine Learning
+  - Deep Learning
+  - TensorFlow
+  - PyTorch
 company: ''
 showInProjects: true
 ---
