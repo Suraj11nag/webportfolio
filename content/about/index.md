@@ -2,23 +2,28 @@
 title: 'About Me'
 avatar: 'me.jpg'
 skills:
-  - Advanced SQL
+  - SQL
+  - Tableau
+  - Looker
   - Numpy
   - Pandas
   - Python
-  - Advanced Excel
+  - Scikit Learn
+  - Excel
   - Visualization Tools
-  - Probability & Statistics
   - Google Analytics 4
   - Firebase
   - Data Analysis with Python
   - Machine Learning
   - Database - PostgreSQL, MongoDB
+  - Probability & Statistics
 ---
 
 Hello! Interestingly, I got introduced to data science in my last year at [RajaRajeswari College of Engineering, Bengaluru](https://www.rrce.org/) where I completed my Bachelors in Engineering (2016-2020) with [7.2 CGPA](https://drive.google.com/file/d/1dYkenPoC75M6_wMY6p-lEZAi2zMBun0j/view?usp=sharing).
 
-I'm currently working as a data analyst for [Mojocare](https://mojocare.com/) in the Technology Department. My responsibilty includes automating tasks, creating dashboards, integrating and designing the event architecture for analytical platform and developing models to accomplish and measure business goals.
+I'm currently working as a data analyst for [Open Financial](https://open.money/) contributing to the Engineering Department. In this role, my primary responsibilities involve implementing automation for reporting and alerts through Looker, ensuring real-time data analysis and keeping teams informed of changes.
+
+Previously, I worked with the Engineering and Product Team at [Mojocare](https://mojocare.com/). My responsibilty includes automating tasks, creating dashboards, integrating and designing the event architecture for analytical platform and developing models to accomplish and measure business goals.
 
 Previously, I worked closely with the Product Team at [Eloelo](https://m.eloelo.in/), fostering and improving products and services for our users by using advanced analytics.
 

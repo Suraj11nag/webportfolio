@@ -23,8 +23,8 @@ module.exports = {
       url: 'https://www.linkedin.com/in/suraj11nag/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/suraj11nag',
+      name: 'Medium',
+      url: 'https://medium.com/@suraj11nag',
     },
     {
       name: 'Instagram',

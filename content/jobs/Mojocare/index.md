@@ -2,7 +2,7 @@
 date: '2021-09-13'
 title: 'Data Analyst'
 company: 'Mojocare'
-range: 'Sep 2021 - Present'
+range: 'Sep 2021 - Dec 2022'
 url: 'https://mojocare.com/'
 ---
 
